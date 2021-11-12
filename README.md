@@ -1,4 +1,4 @@
-#SimpleInterestCalculator
+# SimpleInterestCalculator
 This is a Simple Interest Calculator made by me when was doing an certificate course(Cloud development with JavaScript, HTML and CSS). 
 They provided me an templete which had some codes in it. My task was to finish the incomplete code including the logics.
 To get that certificate this project was mandatory. 
